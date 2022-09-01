@@ -1,114 +1,121 @@
 const data=[
     {
         "id":1,
-        "productName":"Iphone Latest",
+        "productName":"RedWine",
         "price": 20000,
-        "Image":"./Assests/pic1.jpg",
+        "Image":"./assests/pic1.jpg",
         "StockCount":20,
         "ratting":3.5
     },
 
     {
         "id":2,
-        "productName":"Drone",
+        "productName":"kingfisher",
         "price": 17999,
-        "Image":".//Assests/pic2.jpg",
+        "Image":"./assests/Alochol1.jpg",
         "StockCount":70,
         "ratting":3.5
     },
 
     {
         "id":3,
-        "productName":"Canon DSLR",
+        "productName":"Signature",
         "price": 15898,
-        "Image":"./Assests/pic3.jpg",
+        "Image":"./assests/Signature.jpg",
         "StockCount":17,
         "ratting":4.0
     },
 
     {
         "id":4,
-        "productName":"boat headphones",
+        "productName":"Mocktails",
         "price": 25696,
-        "Image":".//Assests/pic4.jpg",
+        "Image":"./assests/Mocktail.jpg",
         "StockCount":17,
         "ratting":4.0
     },
 
     {
         "id":5,
-        "productName":"latest Iphone",
+        "productName":"Shampine",
         "price": 79000,
-        "Image":"./Assests/pic5.jpg",
+        "Image":"./assests/pic5.jpg",
         "StockCount":17,
         "ratting":4.5
     },
 
     {
         "id":6,
-        "productName":"Dell Keyboard",
+        "productName":"Vodka",
         "price": 500,
-        "Image":"./Assests/pic6.jpg",
+        "Image":"./assests/pic6.jpg",
         "StockCount":17,
         "ratting":3.0
     },
 
     {
         "id":7,
-        "productName":"New Laptop",
+        "productName":"Old Monk",
         "price": 60000,
-        "Image":".//Assests/pic7.jpg",
+        "Image":"./assests/pic7.jpg",
         "StockCount":5,
         "ratting":2.5
     },
 
-    {
-        "id":8,
-        "productName":"Renewd Laptop",
-        "price": 10000,
-        "Image":".//Assests/pic8.jpg",
-        "StockCount":12,
-        "ratting":3.5
-    },
+    // {
+    //     "id":8,
+    //     "productName":"Renewd Laptop",
+    //     "price": 10000,
+    //     "Image":"./assests/pic8.jpg",
+    //     "StockCount":12,
+    //     "ratting":3.5
+    // },
 
    
 
     {
         "id":10,
-        "productName":"Apple watch",
+        "productName":"Vodka Green Apple",
         "price": 7000,
-        "Image":"./Assests/pic9.jpg",
+        "Image":"./assests/pic9.jpg",
         "StockCount":17,
         "ratting":4.0
     },
 
     {
         "id":11,
-        "productName":"Apple spareparts",
+        "productName":"Blenders pride",
         "price": 4500,
-        "Image":"./Assests/pic10.jpg",
+        "Image":"./assests/pic10.jpg",
         "StockCount":17,
         "ratting":4.0
     },
 
     {
         "id":12,
-        "productName":"Modular Kitchen",
+        "productName":"Royal stack",
         "price": 4500,
-        "Image":"./Assests/pic11.jpg",
+        "Image":"./assests/pic11.jpg",
         "StockCount":17,
         "ratting":4.0
     },
 
     {
         "id":13,
-        "productName":"vaccum cleaner",
+        "productName":"Wishkey",
         "price": 4500,
-        "Image":"./Assests/pic12.jpg",
+        "Image":"./assests/pic12.jpg",
         "StockCount":17,
         "ratting":4.5
     },
-
+    {
+        "id":14,
+        "productName":"Magic moments",
+        "price": 17999,
+        "Image":"./assests/Alochol1.jpg",
+        "StockCount":70,
+        "ratting":3.5
+    },
     
 
 ]
